@@ -25,5 +25,5 @@ https://www.credly.com/badges/e4c715a5-0f05-41cc-a931-aab8f60fd022/public_url
 
 # Skills
 • Python  • Numpy  • Pandas  •	Sci-kit learn  • Scipy  • Plotly • Matplotlib
-• SQL  • NoSQL (MongoDB)  • FASTAPI
+• SQL  • NoSQL (MongoDB)  • FASTAPI  • Streamlit
 
